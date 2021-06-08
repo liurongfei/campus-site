@@ -1,2 +1,2 @@
-# campus-site
-校园社交平台前端Vue+bootstrap
+# campus_vue
+通过vue做个简单的H5，测试接口
